@@ -20,14 +20,16 @@ namespace AttributeSolution
                     Nome = "Lucas Solis",
                     NumeroDaSorte = 25,
                     Aniversario = new DateTime(1995, 1, 2),
-                    Divida = 7398.473
+                    Divida = 7398.473,
+                    TipoPessoa = "F"
                 },
                 new ArquivoSaida()
                 {
                     Nome = "Chicão",
                     NumeroDaSorte = 21,
                     Aniversario = new DateTime(1998, 11, 1),
-                    Divida = 22398.477
+                    Divida = 22398.477,
+                    TipoPessoa = "J"
                 }
             };
             

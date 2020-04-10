@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/solislu/RiderProjects/AttributeSolution/AttributeSolution/AttributeSolution.csproj",
+      "projectUniqueName": "/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/AttributeSolution.csproj",
       "projectName": "AttributeSolution",
-      "projectPath": "/home/solislu/RiderProjects/AttributeSolution/AttributeSolution/AttributeSolution.csproj",
+      "projectPath": "/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/AttributeSolution.csproj",
       "packagesPath": "/home/solislu/.nuget/packages/",
-      "outputPath": "/home/solislu/RiderProjects/AttributeSolution/AttributeSolution/obj/",
+      "outputPath": "/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/solislu/.config/NuGet/NuGet.Config"

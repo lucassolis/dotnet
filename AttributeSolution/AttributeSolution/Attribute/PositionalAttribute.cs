@@ -44,18 +44,18 @@ namespace AttributeSolution.Attribute
                         {
                             if (atributo.DataFormat.Length > 0)
                             {
-                                valorTratado = Convert.ToDateTime(p.GetValue(reg)).ToString(atributo.DataFormat).PadLeft(atributo.Tamanho, atributo.Complemento);
+                                valorTratado = Convert.ToDateTime(p.GetValue(reg)).ToString(atributo.DataFormat).PadRight(atributo.Tamanho, atributo.Complemento);
                                 linha += valorTratado.Length > atributo.Tamanho ? valorTratado.Substring(0, atributo.Tamanho) : valorTratado;
                             }
                         }
                         else if (p.PropertyType == typeof(decimal) || p.PropertyType == typeof(double) || p.PropertyType == typeof(float))
                         {
-                            valorTratado = new Regex("[^0-9]").Replace(String.Format("{0:F" + atributo.Precisao + "}", p.GetValue(reg)), "").PadLeft(atributo.Tamanho, atributo.Complemento);
+                            valorTratado = new Regex("[^0-9]").Replace(String.Format("{0:F" + atributo.Precisao + "}", p.GetValue(reg)), "").PadRight(atributo.Tamanho, atributo.Complemento);
                             linha += valorTratado.Length > atributo.Tamanho ? valorTratado.Substring(0, atributo.Tamanho) : valorTratado;
                         }
                         else
                         {
-                            valorTratado = p.GetValue(reg).ToString().PadLeft(atributo.Tamanho, atributo.Complemento);
+                            valorTratado = p.GetValue(reg).ToString().PadRight(atributo.Tamanho, atributo.Complemento);
                             linha += valorTratado.Length > atributo.Tamanho ? valorTratado.Substring(0, atributo.Tamanho) : valorTratado;
                         }
                     }

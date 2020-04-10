@@ -17,13 +17,16 @@ namespace AttributeSolution.Model
         [Positional(posicao: 2, tamanho: 30, complemento: ' ')]
         public string Nome { get; set; }
 
-        [Positional(posicao: 4, tamanho: 8, complemento:'0')]
+        [Positional(posicao: 5, tamanho: 8, complemento:'0')]
         public int NumeroDaSorte { get; set; }
         
         [Positional(posicao: 3, tamanho: 10, complemento:' ', dataFormat: "yyyy-MM-dd")] 
         public DateTime Aniversario { get; set; }
         
-        [Positional(posicao: 5, tamanho: 10, complemento:'0', precisao: 2)] 
+        [Positional(posicao: 6, tamanho: 10, complemento:'J', precisao: 2)] 
         public double Divida { get; set; }
+        
+        [Positional(posicao: 4, tamanho: 1, complemento:' ')] 
+        public string TipoPessoa { get; set; }
     }
 }
