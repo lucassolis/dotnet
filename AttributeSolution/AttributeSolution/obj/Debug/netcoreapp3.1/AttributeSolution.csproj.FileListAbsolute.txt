@@ -11,16 +11,3 @@
 /home/solislu/RiderProjects/AttributeSolution/AttributeSolution/obj/Debug/netcoreapp3.1/AttributeSolution.dll
 /home/solislu/RiderProjects/AttributeSolution/AttributeSolution/obj/Debug/netcoreapp3.1/AttributeSolution.pdb
 /home/solislu/RiderProjects/AttributeSolution/AttributeSolution/obj/Debug/netcoreapp3.1/AttributeSolution.genruntimeconfig.cache
-/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/bin/Debug/netcoreapp3.1/AttributeSolution
-/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/bin/Debug/netcoreapp3.1/AttributeSolution.deps.json
-/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/bin/Debug/netcoreapp3.1/AttributeSolution.runtimeconfig.json
-/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/bin/Debug/netcoreapp3.1/AttributeSolution.runtimeconfig.dev.json
-/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/bin/Debug/netcoreapp3.1/AttributeSolution.dll
-/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/bin/Debug/netcoreapp3.1/AttributeSolution.pdb
-/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/obj/Debug/netcoreapp3.1/AttributeSolution.csprojAssemblyReference.cache
-/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/obj/Debug/netcoreapp3.1/AttributeSolution.csproj.CoreCompileInputs.cache
-/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/obj/Debug/netcoreapp3.1/AttributeSolution.AssemblyInfoInputs.cache
-/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/obj/Debug/netcoreapp3.1/AttributeSolution.AssemblyInfo.cs
-/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/obj/Debug/netcoreapp3.1/AttributeSolution.dll
-/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/obj/Debug/netcoreapp3.1/AttributeSolution.pdb
-/home/solislu/Documentos/git/dotnet/AttributeSolution/AttributeSolution/obj/Debug/netcoreapp3.1/AttributeSolution.genruntimeconfig.cache
