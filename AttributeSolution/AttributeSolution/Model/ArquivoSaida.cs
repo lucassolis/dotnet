@@ -9,11 +9,8 @@ namespace AttributeSolution.Model
     public class ArquivoSaida
     {
         [Positional(posicao: 1, tamanho: 2, complemento: ' ')]
-        public string  Tipo
-        {
-            get { return "01"; }
-        }
-        
+        public string  Tipo { get; set; }
+
         [Positional(posicao: 2, tamanho: 30, complemento: ' ')]
         public string Nome { get; set; }
 
@@ -23,8 +20,8 @@ namespace AttributeSolution.Model
         [Positional(posicao: 3, tamanho: 10, complemento:' ', dataFormat: "yyyy-MM-dd")] 
         public DateTime Aniversario { get; set; }
         
-        [Positional(posicao: 6, tamanho: 10, complemento:'J', precisao: 2)] 
-        public double Divida { get; set; }
+        [Positional(posicao: 6, tamanho: 10, complemento:'0', precisao: 2)] 
+        public decimal Divida { get; set; }
         
         [Positional(posicao: 4, tamanho: 1, complemento:' ')] 
         public string TipoPessoa { get; set; }

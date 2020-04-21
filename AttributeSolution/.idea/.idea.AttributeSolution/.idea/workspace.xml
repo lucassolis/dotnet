@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0c9cb49-d46d-4369-a037-8ccbde9e2f11" name="Default Changelist" comment="Teste unitario." />
+    <list default="true" id="f0c9cb49-d46d-4369-a037-8ccbde9e2f11" name="Default Changelist" comment="Teste unitario.">
+      <change afterPath="$PROJECT_DIR$/AttributeSolution/Common/Util.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AttributeSolution/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AttributeSolution/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AttributeSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AttributeSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AttributeSolution/Attribute/PositionalAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AttributeSolution/Attribute/PositionalAttribute.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AttributeSolution/Model/ArquivoSaida.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AttributeSolution/Model/ArquivoSaida.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AttributeSolution/Model/FooterSaida.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AttributeSolution/Model/FooterSaida.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AttributeSolution/Model/HeaderSaida.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AttributeSolution/Model/HeaderSaida.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AttributeSolution/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AttributeSolution/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AttributeSolutionTest/PositionalAttributeTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AttributeSolutionTest/PositionalAttributeTest.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,20 +21,32 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C494BB81-2820-4C33-848B-A8DE8CD3793C/A2/Number.Parsing.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DA31905-7BDA-4426-9718-8B227D1459ED/e1/ded2d270/MethodInfoExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AttributeSolution/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C494BB81-2820-4C33-848B-A8DE8CD3793C/283/RuntimePropertyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C494BB81-2820-4C33-848B-A8DE8CD3793C/3A4/List.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DA31905-7BDA-4426-9718-8B227D1459ED/91/358b0884/TestMethodInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AttributeSolutionTest/PositionalAttributeTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AttributeSolution/Model/HeaderSaida.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AttributeSolution/Model/FooterSaida.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AttributeSolution/Model/ArquivoSaida.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AttributeSolution/Attribute/PositionalAttribute.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AttributeSolution/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AttributeSolutionTest/PositionalAttributeTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AttributeSolution/Common/Util.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C494BB81-2820-4C33-848B-A8DE8CD3793C/2E/RuntimeType.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C494BB81-2820-4C33-848B-A8DE8CD3793C/45/DateTime.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AttributeSolution/Attribute/PositionalAttribute.cs" />
-        <option value="$PROJECT_DIR$/AttributeSolution/Model/ArquivoSaida.cs" />
-        <option value="$PROJECT_DIR$/AttributeSolution/Program.cs" />
         <option value="$PROJECT_DIR$/AttributeSolutionTest/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/AttributeSolution/Model/ArquivoSaida.cs" />
+        <option value="$PROJECT_DIR$/AttributeSolution/Util/Util.cs" />
+        <option value="$PROJECT_DIR$/AttributeSolution/Attribute/PositionalAttribute.cs" />
+        <option value="$PROJECT_DIR$/AttributeSolution/Model/HeaderSaida.cs" />
+        <option value="$PROJECT_DIR$/AttributeSolution/Model/FooterSaida.cs" />
+        <option value="$PROJECT_DIR$/AttributeSolution/Program.cs" />
+        <option value="$PROJECT_DIR$/AttributeSolution/Common/Util.cs" />
         <option value="$PROJECT_DIR$/AttributeSolutionTest/PositionalAttributeTest.cs" />
       </list>
     </option>
@@ -74,7 +96,17 @@
       <option name="presentableId" value="Default" />
       <updated>1586473233430</updated>
       <workItem from="1586473236537" duration="23000" />
-      <workItem from="1586503140834" duration="3660000" />
+      <workItem from="1586503140834" duration="4435000" />
+      <workItem from="1586684592348" duration="17000" />
+      <workItem from="1587422634399" duration="1792000" />
+      <workItem from="1587424450264" duration="1552000" />
+      <workItem from="1587426084931" duration="882000" />
+      <workItem from="1587475198193" duration="1046000" />
+      <workItem from="1587498406805" duration="157000" />
+      <workItem from="1587498580126" duration="717000" />
+      <workItem from="1587499316349" duration="1928000" />
+      <workItem from="1587501272953" duration="1225000" />
+      <workItem from="1587502549068" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="Alteracoes de padLeft para padRight. Adicao de campo e alteracao de complemento para melhor visualizacao de exemplo.">
       <created>1586503522086</created>
@@ -101,7 +133,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -113,22 +147,106 @@
     <option name="LAST_COMMIT_MESSAGE" value="Teste unitario." />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2514" height="277" key="GridCell.Tab.0.bottom" timestamp="1586507758728">
-      <screen x="0" y="0" width="2560" height="1049" />
+    <state x="1129" y="383" key="#xdebugger.evaluate" timestamp="1587502236947">
+      <screen x="0" y="22" width="2560" height="1058" />
     </state>
-    <state width="2514" height="277" key="GridCell.Tab.0.bottom/0.0.2560.1049/2560.0.1920.1080@0.0.2560.1049" timestamp="1586507758728" />
-    <state width="2514" height="277" key="GridCell.Tab.0.center" timestamp="1586507758727">
-      <screen x="0" y="0" width="2560" height="1049" />
+    <state x="1129" y="383" key="#xdebugger.evaluate/0.22.2560.1058@0.22.2560.1058" timestamp="1587502236947" />
+    <state x="1017" y="400" width="525" height="310" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1587424239061">
+      <screen x="0" y="22" width="2560" height="1058" />
     </state>
-    <state width="2514" height="277" key="GridCell.Tab.0.center/0.0.2560.1049/2560.0.1920.1080@0.0.2560.1049" timestamp="1586507758727" />
-    <state width="2514" height="277" key="GridCell.Tab.0.left" timestamp="1586507758727">
-      <screen x="0" y="0" width="2560" height="1049" />
+    <state x="1017" y="400" width="525" height="310" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.22.2560.1058@0.22.2560.1058" timestamp="1587424239061" />
+    <state width="461" height="568" key="DebuggerActiveHint" timestamp="1587501815476">
+      <screen x="0" y="22" width="2560" height="1058" />
     </state>
-    <state width="2514" height="277" key="GridCell.Tab.0.left/0.0.2560.1049/2560.0.1920.1080@0.0.2560.1049" timestamp="1586507758727" />
-    <state width="2514" height="277" key="GridCell.Tab.0.right" timestamp="1586507758728">
-      <screen x="0" y="0" width="2560" height="1049" />
+    <state width="461" height="568" key="DebuggerActiveHint/0.22.2560.1058@0.22.2560.1058" timestamp="1587501815476" />
+    <state x="1063" y="311" width="434" height="487" key="FileChooserDialogImpl" timestamp="1587499371882">
+      <screen x="0" y="22" width="2560" height="1058" />
     </state>
-    <state width="2514" height="277" key="GridCell.Tab.0.right/0.0.2560.1049/2560.0.1920.1080@0.0.2560.1049" timestamp="1586507758728" />
+    <state x="1063" y="311" width="434" height="487" key="FileChooserDialogImpl/0.22.2560.1058@0.22.2560.1058" timestamp="1587499371882" />
+    <state width="2514" height="242" key="GridCell.Tab.0.bottom" timestamp="1587502498571">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="277" key="GridCell.Tab.0.bottom/0.0.2560.1049/2560.0.1920.1080@0.0.2560.1049" timestamp="1586507868636" />
+    <state width="2514" height="242" key="GridCell.Tab.0.bottom/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498571" />
+    <state width="2514" height="242" key="GridCell.Tab.0.center" timestamp="1587502498569">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="277" key="GridCell.Tab.0.center/0.0.2560.1049/2560.0.1920.1080@0.0.2560.1049" timestamp="1586507868636" />
+    <state width="2514" height="242" key="GridCell.Tab.0.center/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498569" />
+    <state width="2514" height="242" key="GridCell.Tab.0.left" timestamp="1587502498569">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="277" key="GridCell.Tab.0.left/0.0.2560.1049/2560.0.1920.1080@0.0.2560.1049" timestamp="1586507868636" />
+    <state width="2514" height="242" key="GridCell.Tab.0.left/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498569" />
+    <state width="2514" height="242" key="GridCell.Tab.0.right" timestamp="1587502498570">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="277" key="GridCell.Tab.0.right/0.0.2560.1049/2560.0.1920.1080@0.0.2560.1049" timestamp="1586507868636" />
+    <state width="2514" height="242" key="GridCell.Tab.0.right/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498570" />
+    <state width="2514" height="242" key="GridCell.Tab.1.bottom" timestamp="1587502498572">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.1.bottom/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498572" />
+    <state width="2514" height="242" key="GridCell.Tab.1.center" timestamp="1587502498571">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.1.center/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498571" />
+    <state width="2514" height="242" key="GridCell.Tab.1.left" timestamp="1587502498571">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.1.left/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498571" />
+    <state width="2514" height="242" key="GridCell.Tab.1.right" timestamp="1587502498571">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.1.right/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498571" />
+    <state width="2514" height="242" key="GridCell.Tab.2.bottom" timestamp="1587502498573">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.2.bottom/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498573" />
+    <state width="2514" height="242" key="GridCell.Tab.2.center" timestamp="1587502498572">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.2.center/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498572" />
+    <state width="2514" height="242" key="GridCell.Tab.2.left" timestamp="1587502498572">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.2.left/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498572" />
+    <state width="2514" height="242" key="GridCell.Tab.2.right" timestamp="1587502498572">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.2.right/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498572" />
+    <state width="2514" height="242" key="GridCell.Tab.3.bottom" timestamp="1587502498574">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.3.bottom/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498574" />
+    <state width="2514" height="242" key="GridCell.Tab.3.center" timestamp="1587502498573">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.3.center/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498573" />
+    <state width="2514" height="242" key="GridCell.Tab.3.left" timestamp="1587502498573">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.3.left/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498573" />
+    <state width="2514" height="242" key="GridCell.Tab.3.right" timestamp="1587502498573">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.3.right/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498573" />
+    <state width="2514" height="242" key="GridCell.Tab.4.bottom" timestamp="1587502498575">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.4.bottom/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498575" />
+    <state width="2514" height="242" key="GridCell.Tab.4.center" timestamp="1587502498574">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.4.center/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498574" />
+    <state width="2514" height="242" key="GridCell.Tab.4.left" timestamp="1587502498574">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.4.left/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498574" />
+    <state width="2514" height="242" key="GridCell.Tab.4.right" timestamp="1587502498574">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state width="2514" height="242" key="GridCell.Tab.4.right/0.22.2560.1058@0.22.2560.1058" timestamp="1587502498574" />
     <state x="875" y="262" width="810" height="533" key="Rider.ProjectTemplateDialog.Size" timestamp="1586504126888">
       <screen x="0" y="0" width="2560" height="1049" />
     </state>
@@ -137,6 +255,10 @@
       <screen x="0" y="0" width="2560" height="1049" />
     </state>
     <state x="769" y="162" width="1022" height="733" key="SettingsEditor/0.0.2560.1049/2560.0.1920.1080@0.0.2560.1049" timestamp="1586506784027" />
+    <state x="1021" y="207" width="518" height="696" key="VCS.ChangeListViewerDialog" timestamp="1587422692947">
+      <screen x="0" y="22" width="2560" height="1058" />
+    </state>
+    <state x="1021" y="207" width="518" height="696" key="VCS.ChangeListViewerDialog/0.22.2560.1058@0.22.2560.1058" timestamp="1587422692947" />
     <state x="875" y="263" width="810" height="531" key="Vcs.Push.Dialog.v2" timestamp="1586507114436">
       <screen x="0" y="0" width="2560" height="1049" />
     </state>
@@ -145,5 +267,24 @@
       <screen x="0" y="0" width="2560" height="1049" />
     </state>
     <state x="939" y="240" key="run.anything.popup/0.0.2560.1049/2560.0.1920.1080@0.0.2560.1049" timestamp="1586504131410" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AttributeSolution/Program.cs</url>
+          <line>51</line>
+          <properties documentPath="$PROJECT_DIR$/AttributeSolution/Program.cs" initialLine="51">
+            <startOffsets>
+              <option value="1927" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2003" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

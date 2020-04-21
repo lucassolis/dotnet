@@ -15,6 +15,9 @@
           <e p="PositionalAttribute.cs" t="Include" />
         </e>
         <e p="AttributeSolution.csproj" t="IncludeRecursive" />
+        <e p="Common" t="Include">
+          <e p="Util.cs" t="Include" />
+        </e>
         <e p="Model" t="Include">
           <e p="ArquivoSaida.cs" t="Include" />
           <e p="FooterSaida.cs" t="Include" />
