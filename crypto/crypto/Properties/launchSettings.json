@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "crypto": {
+      "commandName": "Project",
+      "commandLineArgs": "-d \"C:\\Users\\Lucas Solis\\Documents\\Apagar\\cript\" --type crypt -k teste"
+    }
+  }
+}
