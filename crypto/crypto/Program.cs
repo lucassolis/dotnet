@@ -33,7 +33,7 @@ namespace crypto
 
             if (result.HasErrors)
             {
-                Log.Error("Erro ao ler os parâmetros");
+                Log.Error("Erro ao ler os parâmetros.");
 
                 foreach (var ex in result.Errors)
                     Log.Error(ex.Message);

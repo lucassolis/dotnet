@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C2376BD3-AE7F-42F2-A667-880126C8E312}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="crypto/Program.cs">
+    <Files>
+      <File FileName="crypto/Program.cs" Line="36" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="crypto" expanded="True">
+            <Node name="crypto" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.crypto PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
